@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239.06 48.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #139547;
+      }
+
+      .cls-3 {
+        fill: #000b47;
+        font-family: Poppins-Medium, Poppins;
+        font-size: 27px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-3" transform="translate(50.86 32.3)"><tspan x="0" y="0">Verified Buyer</tspan></text>
+      <g>
+        <circle class="cls-2" cx="20.56" cy="20.56" r="20.56"/>
+        <rect class="cls-1" x="8.13" y="16.45" width="6.34" height="19.36" transform="translate(-15.16 15.64) rotate(-45)"/>
+        <rect class="cls-1" x="22.53" y="7.58" width="6.74" height="25.74" transform="translate(22.05 -12.32) rotate(45)"/>
+      </g>
+    </g>
+  </g>
+</svg>
